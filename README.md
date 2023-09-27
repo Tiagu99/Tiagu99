@@ -8,6 +8,10 @@
 
 Me chamo Tiago, sou goiano, amo um cafezinho e uma pamonha. Apaixonado por tecnologia desde de pequeno me encontrei como profissonal na aréa de desenvolvimento de software, buscando sempre me capacitar em novas tecnologias e também me atualizar nas que já tenho conhecimento. Sempre busquei entender mais as coisas que conhecia e ter novas experiencias, por conta disso me adaptei bem no mundo da programação, que é um mundo de constante evolução exigintdo o mesmo daqueles que se aventuram nessa aréa.
 
+## Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tiago-da-silva-moreira/)
+
 
 ## Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
